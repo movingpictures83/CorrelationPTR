@@ -1,0 +1,2 @@
+Prefix plugins/CorrelationPTR/example
+Plugin CorrelationPTR inputfile PTR_species_filtered_metadata_major.csv outputfile .
